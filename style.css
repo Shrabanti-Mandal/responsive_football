@@ -217,12 +217,12 @@ main{
     margin-bottom: 10px;
 }
 
-.icon-box{
-    padding: 8px;
-    background-color: rgba(196, 189, 189, 0.363);
-    text-align: center;
-    border-radius: 50px;
-    margin-right: 14px;
+.icon i{
+    padding: 8px 8px 8px 8px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    margin-right: 8px;
+    background-color: rgba(211, 211, 211, 0.37);
 }
 /* -------------------icon color 
 ------------------------------------------------*/
